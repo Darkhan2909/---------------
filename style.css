@@ -82,6 +82,7 @@ div.reviews-stars button.buttonsend:hover {
     border-color: aquamarine;
     color: teal;
     background: aquamarine;
+    border-color: teal;
 }
 
 div.reviews-stars button.buttonsend {
