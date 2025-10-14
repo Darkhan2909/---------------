@@ -7,7 +7,7 @@ div.reviews-stars button{
 }
 
 div.reviews-stars button.active i{
-    color: #ffc000;
+    color: gold;
 }
 
 div.reviews-stars button i{
@@ -19,15 +19,15 @@ div.reviews-stars button:hover{
 }
 
 i.fas.fa-star {
-    width: 29px;
-    height: 29px;
-    size: 29px;
+    width: 36px;
+    height: 36px;
+    size: 36px;
 }
 
 i.fa-star:before {
-    width: 29px;
-    height: 29px;
-    font-size: 29px;
+    width: 36px;
+    height: 36px;
+    font-size: 36px;
 }
 
 body {
