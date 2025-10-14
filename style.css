@@ -45,7 +45,7 @@ div.reviews-stars {
     margin: auto;
     height: 100%;
     border: 3px solid teal;
-    padding: 36px;
+    padding: 49px 29px;
     border-radius: 8px;
     background: lavender;
     width: max-content;
@@ -81,7 +81,7 @@ div.reviews-stars button.buttonsend {
 div.reviews-stars button.buttonsend:hover {
     border-color: aquamarine;
     color: teal;
-    background: aquamarine;
+    background: lemonchiffon;
     border-color: teal;
 }
 
