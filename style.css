@@ -41,7 +41,7 @@ div.reviews-stars {
     display: grid;
     justify-content: center;
     text-align: center;
-    gap: 17px;
+    gap: 24px;
     margin: auto;
     height: 100%;
     border: 3px solid teal;
