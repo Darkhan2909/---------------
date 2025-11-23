@@ -54,7 +54,7 @@ div.reviews-stars:hover {
     box-shadow: 0 0 8px teal;
 }
 span.rs-left {
-    font-size: 17px;
+    font-size: 25px;
     color: teal;
     font-weight: 700;
     font-family: cursive;
@@ -81,10 +81,10 @@ div.reviews-stars button.buttonsend {
 div.reviews-stars button.buttonsend:hover {
     border-color: aquamarine;
     color: teal;
-    background: lemonchiffon;
+    background: lavender;
     border-color: teal;
 }
 
 div.reviews-stars button.buttonsend {
-    font-size: 13px;
+    font-size: 17px;
 }
